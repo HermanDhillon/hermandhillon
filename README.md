@@ -1,4 +1,4 @@
-![My Banner](https://raw.githubusercontent.com/HermanDhillon/GitPage/main/images/Screenshot%202022-09-04%20000916.png?token=GHSAT0AAAAAABWQHQVB3YYNRX2JIGTOCYLOYZQXAPA)
+
 
 <h1 align="center"> <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px"> Welcome! </h1>
 
